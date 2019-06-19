@@ -1,0 +1,27 @@
+.guzhong{
+    width: 50%;
+   
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    margin-top:10rem;
+    text-align: center;
+}
+.guzhong input{
+    width: 50%;
+    height: 2.5rem;
+    
+}
+.guzhong .beijin{
+    background:none;
+}
+.guzhong .bottom{
+    padding-bottom: 0.5rem;
+    padding-top: 0.5rem;
+}
+.guzhong .tupian{
+    margin-bottom: 1rem;
+}
